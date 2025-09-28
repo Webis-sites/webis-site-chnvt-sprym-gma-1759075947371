@@ -1,11 +1,54 @@
 {
-  "timestamp": "2025-09-28T16:12:51.804Z",
+  "timestamp": "2025-09-28T16:13:47.631Z",
   "status": {
-    "totalComponents": 0,
+    "totalComponents": 7,
     "completedComponents": 0,
     "failedComponents": 0,
     "progress": 0
   },
-  "components": [],
+  "components": [
+    {
+      "name": "Navbar",
+      "type": "navigation",
+      "status": "pending",
+      "description": "RTL navigation bar with business name and smooth scroll links to sections"
+    },
+    {
+      "name": "HeroSection",
+      "type": "hero",
+      "status": "pending",
+      "description": "Engaging hero section with playful typography and booking CTA"
+    },
+    {
+      "name": "ServicesShowcase",
+      "type": "services",
+      "status": "pending",
+      "description": "Interactive services display with food book categories"
+    },
+    {
+      "name": "PortfolioGallery",
+      "type": "portfolio",
+      "status": "pending",
+      "description": "Visual gallery of featured cookbooks and food literature"
+    },
+    {
+      "name": "BookingSystem",
+      "type": "booking",
+      "status": "pending",
+      "description": "Appointment booking form for consultations and special orders"
+    },
+    {
+      "name": "ExpertiseSection",
+      "type": "expertise",
+      "status": "pending",
+      "description": "Showcase years of experience and specialization in culinary books"
+    },
+    {
+      "name": "ContactFooter",
+      "type": "contact",
+      "status": "pending",
+      "description": "Contact information and footer with location details"
+    }
+  ],
   "repoName": "webis-site-chnvt-sprym-gma-1759075947371"
 }
