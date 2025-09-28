@@ -4,6 +4,7 @@ import React from 'react';
 import HeroSection from '@/components/HeroSection';
 import ServicesShowcase from '@/components/ServicesShowcase';
 import PortfolioGallery from '@/components/PortfolioGallery';
+import BookingSystem from '@/components/BookingSystem';
 
 export default function HomePage() {
   return (
@@ -14,6 +15,7 @@ export default function HomePage() {
         <HeroSection />
         <ServicesShowcase />
         <PortfolioGallery />
+        <BookingSystem />
       </main>
     </>
   );
