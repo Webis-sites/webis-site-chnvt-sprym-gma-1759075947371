@@ -5,6 +5,7 @@ import HeroSection from '@/components/HeroSection';
 import ServicesShowcase from '@/components/ServicesShowcase';
 import PortfolioGallery from '@/components/PortfolioGallery';
 import BookingSystem from '@/components/BookingSystem';
+import ExpertiseSection from '@/components/ExpertiseSection';
 
 export default function HomePage() {
   return (
@@ -16,6 +17,7 @@ export default function HomePage() {
         <ServicesShowcase />
         <PortfolioGallery />
         <BookingSystem />
+        <ExpertiseSection />
       </main>
     </>
   );
