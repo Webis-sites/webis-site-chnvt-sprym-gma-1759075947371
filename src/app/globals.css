@@ -9,7 +9,10 @@
       --background-end-rgb: 255, 255, 255;
       --primary-color: #D4A5A5;
       --secondary-color: #9B786F;
-    }
+    
+  --nav-blur: 12px;
+  --shadow-soft: 8px 8px 16px #d1d1d1, -8px -8px 16px #ffffff;
+}
 
     html {
       scroll-behavior: smooth;
