@@ -17,6 +17,9 @@
 
   --card-shadow: 0 10px 30px rgba(0,0,0,0.1);
   --glass-blur: 10px;
+
+  --footer-bg: #111827;
+  --glass-bg: rgba(255, 255, 255, 0.1);
 }
 
     html {
