@@ -1,0 +1,7 @@
+
+    # robots.txt for חנות ספרים גמא
+    User-agent: *
+    Allow: /
+
+    # Sitemap
+    Sitemap: https://חנות-ספרים-גמא.com/sitemap.xml
