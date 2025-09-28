@@ -1,8 +1,11 @@
 {
-  "projectName": "חנות-ספרים-גמא-5947",
-  "businessName": "חנות ספרים גמא",
-  "created": "2025-09-28T16:12:27.436Z",
-  "status": "initialized",
-  "progress": 0,
-  "components": []
+  "timestamp": "2025-09-28T16:12:51.804Z",
+  "status": {
+    "totalComponents": 0,
+    "completedComponents": 0,
+    "failedComponents": 0,
+    "progress": 0
+  },
+  "components": [],
+  "repoName": "webis-site-chnvt-sprym-gma-1759075947371"
 }
