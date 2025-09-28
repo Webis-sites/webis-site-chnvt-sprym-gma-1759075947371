@@ -12,6 +12,8 @@
     
   --nav-blur: 12px;
   --shadow-soft: 8px 8px 16px #d1d1d1, -8px -8px 16px #ffffff;
+
+  --font-family: Rubik, sans-serif;
 }
 
     html {
